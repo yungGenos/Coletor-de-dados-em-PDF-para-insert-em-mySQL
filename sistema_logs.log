@@ -1,0 +1,591 @@
+2025-07-22 11:50:57,640 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 11:50:57,640 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 11:50:57,757 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 11:50:58,191 - WARNING -  * Debugger is active!
+2025-07-22 11:50:58,202 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 11:50:59,519 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\sqlalchemy\\engine\\url.py', reloading
+2025-07-22 11:51:00,358 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 11:51:00,810 - WARNING -  * Debugger is active!
+2025-07-22 11:51:00,816 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 11:51:01,259 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\sqlalchemy\\util\\_py_collections.py', reloading
+2025-07-22 11:51:01,971 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 11:51:02,608 - WARNING -  * Debugger is active!
+2025-07-22 11:51:02,614 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 11:51:02,768 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\sqlalchemy\\engine\\base.py', reloading
+2025-07-22 11:51:03,794 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 11:51:04,290 - WARNING -  * Debugger is active!
+2025-07-22 11:51:04,295 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 11:51:05,561 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\sqlalchemy\\engine\\interfaces.py', reloading
+2025-07-22 11:51:05,597 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\sqlalchemy\\event\\__init__.py', reloading
+2025-07-22 11:51:05,618 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\sqlalchemy\\event\\registry.py', reloading
+2025-07-22 11:51:05,688 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\sqlalchemy\\log.py', reloading
+2025-07-22 11:51:05,694 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\sqlalchemy\\inspection.py', reloading
+2025-07-22 11:51:05,700 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\sqlalchemy\\engine\\reflection.py', reloading
+2025-07-22 11:51:05,907 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\sqlalchemy\\pool\\__init__.py', reloading
+2025-07-22 11:51:05,909 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\sqlalchemy\\pool\\base.py', reloading
+2025-07-22 11:51:05,993 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\sqlalchemy\\util\\typing.py', reloading
+2025-07-22 11:51:06,458 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 11:51:07,061 - WARNING -  * Debugger is active!
+2025-07-22 11:51:07,069 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 11:51:07,116 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\sqlalchemy\\orm\\__init__.py', reloading
+2025-07-22 11:51:07,133 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\sqlalchemy\\orm\\context.py', reloading
+2025-07-22 11:51:07,183 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\sqlalchemy\\sql\\operators.py', reloading
+2025-07-22 11:51:07,220 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\sqlalchemy\\sql\\dml.py', reloading
+2025-07-22 11:51:08,234 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 11:51:08,735 - WARNING -  * Debugger is active!
+2025-07-22 11:51:08,741 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 11:51:11,947 - INFO - 127.0.0.1 - - [22/Jul/2025 11:51:11] "GET /?id=24ca8767-7272-46bb-b4a8-8f6a754ea6c4&vscodeBrowserReqId=1753195871572 HTTP/1.1" 200 -
+2025-07-22 11:51:39,284 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\getopt.py', reloading
+2025-07-22 11:51:40,216 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 11:51:40,687 - WARNING -  * Debugger is active!
+2025-07-22 11:51:40,694 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 11:51:59,249 - INFO - 127.0.0.1 - - [22/Jul/2025 11:51:59] "GET / HTTP/1.1" 200 -
+2025-07-22 11:51:59,351 - INFO - 127.0.0.1 - - [22/Jul/2025 11:51:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-22 11:53:00,342 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\werkzeug\\__init__.py', reloading
+2025-07-22 11:53:01,412 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 11:53:01,842 - WARNING -  * Debugger is active!
+2025-07-22 11:53:01,847 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 11:53:36,186 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 11:53:36,187 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 11:53:36,187 - INFO -  * Detected change in 'C:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 11:53:37,210 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 11:53:37,616 - WARNING -  * Debugger is active!
+2025-07-22 11:53:37,621 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 11:54:39,027 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\utf_16_be.py', reloading
+2025-07-22 11:54:39,054 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\charmap.py', reloading
+2025-07-22 11:54:39,141 - INFO - Dados salvos com ID: df0cb5a0-8b7b-4744-abe8-6d874fd9ad1b
+2025-07-22 11:54:39,143 - INFO - 127.0.0.1 - - [22/Jul/2025 11:54:39] "POST /upload HTTP/1.1" 200 -
+2025-07-22 11:54:39,225 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 11:54:39,640 - WARNING -  * Debugger is active!
+2025-07-22 11:54:39,644 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 11:54:47,257 - ERROR - Erro ao carregar dados: Expecting property name enclosed in double quotes: line 2 column 1 (char 2)
+2025-07-22 11:54:47,259 - INFO - 127.0.0.1 - - [22/Jul/2025 11:54:47] "[32mGET /visualizar HTTP/1.1[0m" 302 -
+2025-07-22 11:54:47,572 - INFO - 127.0.0.1 - - [22/Jul/2025 11:54:47] "GET / HTTP/1.1" 200 -
+2025-07-22 11:54:50,389 - ERROR - Erro ao carregar dados: Expecting property name enclosed in double quotes: line 2 column 1 (char 2)
+2025-07-22 11:54:50,390 - INFO - 127.0.0.1 - - [22/Jul/2025 11:54:50] "[32mGET /visualizar HTTP/1.1[0m" 302 -
+2025-07-22 11:54:50,473 - INFO - 127.0.0.1 - - [22/Jul/2025 11:54:50] "GET / HTTP/1.1" 200 -
+2025-07-22 11:54:52,384 - ERROR - Erro ao carregar dados: Expecting property name enclosed in double quotes: line 2 column 1 (char 2)
+2025-07-22 11:54:52,385 - INFO - 127.0.0.1 - - [22/Jul/2025 11:54:52] "[32mGET /visualizar HTTP/1.1[0m" 302 -
+2025-07-22 11:54:52,696 - INFO - 127.0.0.1 - - [22/Jul/2025 11:54:52] "GET / HTTP/1.1" 200 -
+2025-07-22 11:55:02,046 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 11:55:02,046 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 11:55:02,060 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 11:55:02,450 - WARNING -  * Debugger is active!
+2025-07-22 11:55:02,456 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 11:56:08,742 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\__init__.py', reloading
+2025-07-22 11:56:08,743 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\__init__.py', reloading
+2025-07-22 11:56:08,817 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\result.py', reloading
+2025-07-22 11:56:08,862 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\util.py', reloading
+2025-07-22 11:56:08,914 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\case.py', reloading
+2025-07-22 11:56:08,914 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\case.py', reloading
+2025-07-22 11:56:09,022 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\suite.py', reloading
+2025-07-22 11:56:09,067 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\loader.py', reloading
+2025-07-22 11:56:09,119 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\main.py', reloading
+2025-07-22 11:56:09,168 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\runner.py', reloading
+2025-07-22 11:56:09,196 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\signals.py', reloading
+2025-07-22 11:56:09,196 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\signals.py', reloading
+2025-07-22 11:56:09,714 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 11:56:10,383 - WARNING -  * Debugger is active!
+2025-07-22 11:56:10,393 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 11:56:12,947 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 11:56:12,947 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 11:56:12,963 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 11:56:13,387 - WARNING -  * Debugger is active!
+2025-07-22 11:56:13,395 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 11:56:30,957 - INFO - 172.16.0.235 - - [22/Jul/2025 11:56:30] "GET / HTTP/1.1" 200 -
+2025-07-22 11:56:31,080 - INFO - 172.16.0.235 - - [22/Jul/2025 11:56:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-22 11:57:38,731 - INFO - Dados salvos com ID: 6b3380da-cb50-45d6-9523-201aa9b05392
+2025-07-22 11:57:38,732 - INFO - 172.16.0.235 - - [22/Jul/2025 11:57:38] "POST /upload HTTP/1.1" 200 -
+2025-07-22 11:57:41,274 - ERROR - Erro ao carregar dados: Expecting property name enclosed in double quotes: line 2 column 1 (char 2)
+2025-07-22 11:57:41,274 - INFO - 172.16.0.235 - - [22/Jul/2025 11:57:41] "[32mGET /visualizar HTTP/1.1[0m" 302 -
+2025-07-22 11:57:41,278 - INFO - 172.16.0.235 - - [22/Jul/2025 11:57:41] "GET / HTTP/1.1" 200 -
+2025-07-22 11:58:02,514 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 11:58:02,514 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 11:58:02,529 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 11:58:02,938 - WARNING -  * Debugger is active!
+2025-07-22 11:58:02,944 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 11:59:03,429 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 11:59:03,429 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 11:59:03,446 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 11:59:03,873 - WARNING -  * Debugger is active!
+2025-07-22 11:59:03,879 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 11:59:15,764 - INFO - 127.0.0.1 - - [22/Jul/2025 11:59:15] "GET / HTTP/1.1" 200 -
+2025-07-22 11:59:15,889 - INFO - 127.0.0.1 - - [22/Jul/2025 11:59:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-22 11:59:17,418 - INFO - 172.16.0.235 - - [22/Jul/2025 11:59:17] "GET / HTTP/1.1" 200 -
+2025-07-22 11:59:55,110 - INFO - Dados salvos com ID: a336dd2b-09ff-4b00-9534-1bd1b75785ff
+2025-07-22 11:59:55,111 - INFO - 127.0.0.1 - - [22/Jul/2025 11:59:55] "POST /upload HTTP/1.1" 200 -
+2025-07-22 12:00:51,765 - ERROR - Erro ao carregar dados: Expecting property name enclosed in double quotes: line 2 column 1 (char 2)
+2025-07-22 12:00:51,766 - INFO - 127.0.0.1 - - [22/Jul/2025 12:00:51] "[32mGET /visualizar HTTP/1.1[0m" 302 -
+2025-07-22 12:00:51,770 - INFO - 127.0.0.1 - - [22/Jul/2025 12:00:51] "GET / HTTP/1.1" 200 -
+2025-07-22 12:08:12,807 - ERROR - Erro ao carregar dados: Expecting property name enclosed in double quotes: line 2 column 1 (char 2)
+2025-07-22 12:08:12,808 - INFO - 127.0.0.1 - - [22/Jul/2025 12:08:12] "[32mGET /visualizar HTTP/1.1[0m" 302 -
+2025-07-22 12:08:12,815 - INFO - 127.0.0.1 - - [22/Jul/2025 12:08:12] "GET / HTTP/1.1" 200 -
+2025-07-22 12:09:43,579 - INFO - 127.0.0.1 - - [22/Jul/2025 12:09:43] "GET / HTTP/1.1" 200 -
+2025-07-22 12:09:47,419 - INFO - 172.16.0.235 - - [22/Jul/2025 12:09:47] "GET / HTTP/1.1" 200 -
+2025-07-22 12:11:56,192 - INFO - 127.0.0.1 - - [22/Jul/2025 12:11:56] "GET / HTTP/1.1" 200 -
+2025-07-22 12:51:40,485 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 12:51:40,486 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 12:51:40,768 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 12:51:41,229 - WARNING -  * Debugger is active!
+2025-07-22 12:51:41,240 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 12:51:49,439 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 12:51:49,439 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 12:51:50,430 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 12:51:50,855 - WARNING -  * Debugger is active!
+2025-07-22 12:51:50,860 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 12:54:28,679 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 12:54:28,681 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 12:54:29,187 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 12:54:29,615 - WARNING -  * Debugger is active!
+2025-07-22 12:54:29,620 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 12:54:34,104 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 12:54:34,105 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 12:54:34,119 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 12:54:34,525 - WARNING -  * Debugger is active!
+2025-07-22 12:54:34,535 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 12:54:43,285 - INFO - 172.16.0.235 - - [22/Jul/2025 12:54:43] "GET / HTTP/1.1" 200 -
+2025-07-22 12:55:45,699 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 12:55:45,701 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 12:55:45,701 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 12:55:46,210 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 12:55:46,676 - WARNING -  * Debugger is active!
+2025-07-22 12:55:46,682 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 12:55:55,124 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 12:55:55,124 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 12:55:55,125 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 12:55:55,874 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 12:55:56,302 - WARNING -  * Debugger is active!
+2025-07-22 12:55:56,308 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 12:57:57,674 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 12:57:57,675 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 12:57:57,675 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 12:57:58,270 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 12:57:58,881 - WARNING -  * Debugger is active!
+2025-07-22 12:57:58,887 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 12:58:18,208 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 12:58:18,209 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 12:58:18,224 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 12:58:18,638 - WARNING -  * Debugger is active!
+2025-07-22 12:58:18,649 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 12:58:22,392 - INFO - 172.16.0.235 - - [22/Jul/2025 12:58:22] "GET / HTTP/1.1" 200 -
+2025-07-22 13:00:48,835 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 13:00:48,835 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 13:00:48,851 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 13:00:49,261 - WARNING -  * Debugger is active!
+2025-07-22 13:00:49,267 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 13:00:51,063 - INFO - 172.16.0.235 - - [22/Jul/2025 13:00:51] "GET / HTTP/1.1" 200 -
+2025-07-22 13:01:21,206 - INFO - 172.16.0.235 - - [22/Jul/2025 13:01:21] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 13:01:30,878 - INFO - 172.16.0.235 - - [22/Jul/2025 13:01:30] "GET /visualizar HTTP/1.1" 200 -
+2025-07-22 13:01:30,879 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\unicode_escape.py', reloading
+2025-07-22 13:01:31,680 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 13:01:32,082 - WARNING -  * Debugger is active!
+2025-07-22 13:01:32,087 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 13:01:35,706 - INFO - 172.16.0.235 - - [22/Jul/2025 13:01:35] "GET / HTTP/1.1" 200 -
+2025-07-22 13:02:26,608 - INFO - 127.0.0.1 - - [22/Jul/2025 13:02:26] "GET / HTTP/1.1" 200 -
+2025-07-22 13:02:41,202 - INFO - 127.0.0.1 - - [22/Jul/2025 13:02:41] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 13:02:43,999 - INFO - 127.0.0.1 - - [22/Jul/2025 13:02:43] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 13:02:44,588 - INFO - 127.0.0.1 - - [22/Jul/2025 13:02:44] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 13:02:53,041 - INFO - 172.16.0.235 - - [22/Jul/2025 13:02:53] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 13:02:54,008 - INFO - 172.16.0.235 - - [22/Jul/2025 13:02:54] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 13:05:47,558 - INFO - 172.16.0.235 - - [22/Jul/2025 13:05:47] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 13:06:22,833 - INFO - 127.0.0.1 - - [22/Jul/2025 13:06:22] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 13:06:33,628 - INFO - 127.0.0.1 - - [22/Jul/2025 13:06:33] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 13:06:36,628 - INFO - 127.0.0.1 - - [22/Jul/2025 13:06:36] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 13:06:36,965 - INFO - 127.0.0.1 - - [22/Jul/2025 13:06:36] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 13:06:37,282 - INFO - 127.0.0.1 - - [22/Jul/2025 13:06:37] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 13:06:37,559 - INFO - 127.0.0.1 - - [22/Jul/2025 13:06:37] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 13:06:38,119 - INFO - 127.0.0.1 - - [22/Jul/2025 13:06:38] "GET /visualizar HTTP/1.1" 200 -
+2025-07-22 13:06:39,259 - INFO - 127.0.0.1 - - [22/Jul/2025 13:06:39] "GET / HTTP/1.1" 200 -
+2025-07-22 13:07:20,450 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 13:07:20,451 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 13:07:20,451 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 13:07:20,708 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 13:07:21,169 - WARNING -  * Debugger is active!
+2025-07-22 13:07:21,175 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 13:08:55,204 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 13:08:55,204 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 13:08:55,957 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 13:08:56,413 - WARNING -  * Debugger is active!
+2025-07-22 13:08:56,419 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 13:09:01,217 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 13:09:01,218 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 13:09:01,233 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 13:09:01,640 - WARNING -  * Debugger is active!
+2025-07-22 13:09:01,647 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 13:09:10,024 - INFO - 172.16.0.235 - - [22/Jul/2025 13:09:10] "GET / HTTP/1.1" 200 -
+2025-07-22 13:09:20,211 - INFO - 172.16.0.235 - - [22/Jul/2025 13:09:20] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 13:09:30,951 - INFO - 172.16.0.235 - - [22/Jul/2025 13:09:30] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 13:09:46,666 - INFO - 172.16.0.235 - - [22/Jul/2025 13:09:46] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 13:16:36,115 - INFO - 172.16.0.235 - - [22/Jul/2025 13:16:36] "GET / HTTP/1.1" 200 -
+2025-07-22 15:11:35,704 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\prototipo de intercepta��o de dados.py', reloading
+2025-07-22 15:11:35,838 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 15:11:36,404 - WARNING -  * Debugger is active!
+2025-07-22 15:11:36,409 - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 15:16:05,069 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 15:16:05,069 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 15:16:05,070 - INFO -  * Detected change in 'c:\\Users\\thiago.oliveira\\Desktop\\prototipo de itercepta��o de dados\\app.py', reloading
+2025-07-22 15:16:05,376 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-22 15:16:05,845 - werkzeug - WARNING -  * Debugger is active!
+2025-07-22 15:16:05,854 - werkzeug - INFO -  * Debugger PIN: 422-911-613
+2025-07-22 15:22:22,300 - __main__ - INFO - Iniciando Sistema de Coleta de Dados
+2025-07-22 15:22:22,300 - __main__ - INFO - Pasta de uploads: uploads
+2025-07-22 15:22:22,300 - __main__ - INFO - Arquivo de dados: dados_coletados.json
+2025-07-22 15:22:22,300 - __main__ - INFO - Sistema disponível em: http://localhost:5000
+2025-07-22 15:22:22,330 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 15:22:22,330 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 15:22:25,875 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:22:25] "GET / HTTP/1.1" 200 -
+2025-07-22 15:22:26,354 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:22:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-22 15:22:47,384 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 15:22:47,409 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 15:22:47,410 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:22:47] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 15:22:57,863 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 15:22:57,889 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 15:22:57,890 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:22:57] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 15:23:11,574 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 15:23:11,605 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 15:23:11,606 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:23:11] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 15:23:12,167 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 15:23:12,186 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 15:23:12,187 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:23:12] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 15:23:50,141 - __main__ - INFO - Iniciando Sistema de Coleta de Dados
+2025-07-22 15:23:50,141 - __main__ - INFO - Pasta de uploads: uploads
+2025-07-22 15:23:50,141 - __main__ - INFO - Arquivo de dados: dados_coletados.json
+2025-07-22 15:23:50,141 - __main__ - INFO - Sistema disponível em: http://localhost:5000
+2025-07-22 15:23:50,186 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 15:23:50,186 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 15:23:57,063 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:23:57] "GET / HTTP/1.1" 200 -
+2025-07-22 15:24:16,440 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 15:24:16,459 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 15:24:16,460 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:24:16] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 15:27:41,122 - __main__ - INFO - Iniciando Sistema de Coleta de Dados
+2025-07-22 15:27:41,122 - __main__ - INFO - Pasta de uploads: uploads
+2025-07-22 15:27:41,122 - __main__ - INFO - Arquivo de dados: dados_coletados.json
+2025-07-22 15:27:41,122 - __main__ - INFO - Sistema disponível em: http://localhost:5000
+2025-07-22 15:27:41,142 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 15:27:41,143 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 15:39:39,001 - __main__ - INFO - Iniciando Sistema de Coleta de Dados
+2025-07-22 15:39:39,001 - __main__ - INFO - Pasta de uploads: uploads
+2025-07-22 15:39:39,002 - __main__ - INFO - Arquivo de dados: dados_coletados.json
+2025-07-22 15:39:39,002 - __main__ - INFO - Sistema disponível em: http://localhost:5000
+2025-07-22 15:39:39,019 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 15:39:39,020 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 15:39:53,906 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:39:53] "GET / HTTP/1.1" 200 -
+2025-07-22 15:40:13,045 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 15:40:13,070 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 15:40:13,071 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:40:13] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 15:40:30,704 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 15:40:30,723 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 15:40:30,725 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:40:30] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 15:41:31,743 - __main__ - INFO - Carregados 0 registros para visualização
+2025-07-22 15:41:31,768 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:41:31] "GET /visualizar HTTP/1.1" 200 -
+2025-07-22 15:41:34,254 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:41:34] "GET / HTTP/1.1" 200 -
+2025-07-22 15:41:59,033 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 15:41:59,053 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 15:41:59,055 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:41:59] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 15:42:06,576 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 15:42:06,578 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 15:42:06,578 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:42:06] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 15:42:07,784 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 15:42:07,786 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 15:42:07,787 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:42:07] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 15:42:15,005 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 15:42:15,011 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 15:42:15,012 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:42:15] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 15:42:15,656 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 15:42:15,660 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 15:42:15,661 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:42:15] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 15:42:16,105 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 15:42:16,111 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 15:42:16,112 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 15:42:16] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 15:44:01,868 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 15:44:01] "GET / HTTP/1.1" 200 -
+2025-07-22 15:44:01,965 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 15:44:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-22 15:44:16,118 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 15:44:16,140 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 15:44:16,141 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 15:44:16] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 15:44:17,472 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 15:44:17,489 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 15:44:17,491 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 15:44:17] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 16:06:05,947 - __main__ - INFO - Iniciando Sistema de Coleta de Dados
+2025-07-22 16:06:05,962 - __main__ - INFO - Pasta de uploads: uploads
+2025-07-22 16:06:05,962 - __main__ - INFO - Arquivo de dados: dados_coletados.json
+2025-07-22 16:06:05,964 - __main__ - INFO - Sistema disponível em: http://localhost:5000
+2025-07-22 16:06:05,964 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 16:06:05,979 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 16:06:13,403 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 16:06:13] "GET /?id=fc33c1e3-141d-4fb9-a249-b0b1cdd39d35&vscodeBrowserReqId=1753211173090 HTTP/1.1" 200 -
+2025-07-22 16:25:58,119 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 16:25:58,141 - __main__ - INFO - Dados do formulário recebidos: {'criado_por': 'sasasa', 'responsavel': 'sasasasas', 'observacoes': 'sasassas'}
+2025-07-22 16:25:58,141 - __main__ - INFO - Arquivos recebidos: ['pdf_file']
+2025-07-22 16:25:58,141 - __main__ - INFO - Dados sanitizados: {'criado_por': 'sasasa', 'nome': '', 'responsavel': 'sasasasas', 'observacoes': 'sasassas'}
+2025-07-22 16:25:58,141 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 16:25:58,141 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 16:25:58] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 16:26:04,442 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 16:26:04,492 - __main__ - INFO - Dados do formulário recebidos: {'criado_por': 'sasasa', 'responsavel': 'sasasasas', 'observacoes': 'sasassas'}
+2025-07-22 16:26:04,492 - __main__ - INFO - Arquivos recebidos: ['pdf_file']
+2025-07-22 16:26:04,492 - __main__ - INFO - Dados sanitizados: {'criado_por': 'sasasa', 'nome': '', 'responsavel': 'sasasasas', 'observacoes': 'sasassas'}
+2025-07-22 16:26:04,492 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 16:26:04,492 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 16:26:04] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 16:26:05,443 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 16:26:05,460 - __main__ - INFO - Dados do formulário recebidos: {'criado_por': 'sasasa', 'responsavel': 'sasasasas', 'observacoes': 'sasassas'}
+2025-07-22 16:26:05,461 - __main__ - INFO - Arquivos recebidos: ['pdf_file']
+2025-07-22 16:26:05,461 - __main__ - INFO - Dados sanitizados: {'criado_por': 'sasasa', 'nome': '', 'responsavel': 'sasasasas', 'observacoes': 'sasassas'}
+2025-07-22 16:26:05,461 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 16:26:05,462 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 16:26:05] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 16:26:26,781 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 16:26:26,807 - __main__ - INFO - Dados do formulário recebidos: {'criado_por': 'sasasa', 'responsavel': 'sasasasas', 'observacoes': 'sasassas'}
+2025-07-22 16:26:26,807 - __main__ - INFO - Arquivos recebidos: ['pdf_file']
+2025-07-22 16:26:26,807 - __main__ - INFO - Dados sanitizados: {'criado_por': 'sasasa', 'nome': '', 'responsavel': 'sasasasas', 'observacoes': 'sasassas'}
+2025-07-22 16:26:26,807 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 16:26:26,807 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 16:26:26] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 16:26:49,956 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 16:26:49,977 - __main__ - INFO - Dados do formulário recebidos: {'criado_por': 'Kaique Vinicius', 'responsavel': 'Mauricio', 'observacoes': 'sasassas'}
+2025-07-22 16:26:49,977 - __main__ - INFO - Arquivos recebidos: ['pdf_file']
+2025-07-22 16:26:49,978 - __main__ - INFO - Dados sanitizados: {'criado_por': 'Kaique Vinicius', 'nome': '', 'responsavel': 'Mauricio', 'observacoes': 'sasassas'}
+2025-07-22 16:26:49,978 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 16:26:49,979 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 16:26:49] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 16:26:51,506 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 16:26:51,527 - __main__ - INFO - Dados do formulário recebidos: {'criado_por': 'Kaique Vinicius', 'responsavel': 'Mauricio', 'observacoes': 'sasassas'}
+2025-07-22 16:26:51,527 - __main__ - INFO - Arquivos recebidos: ['pdf_file']
+2025-07-22 16:26:51,528 - __main__ - INFO - Dados sanitizados: {'criado_por': 'Kaique Vinicius', 'nome': '', 'responsavel': 'Mauricio', 'observacoes': 'sasassas'}
+2025-07-22 16:26:51,528 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 16:26:51,529 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 16:26:51] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 16:27:05,237 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 16:27:05,258 - __main__ - INFO - Dados do formulário recebidos: {'criado_por': 'Kaique Vinicius', 'responsavel': 'kaiquevini14@gmail.com', 'observacoes': 'sasassas'}
+2025-07-22 16:27:05,258 - __main__ - INFO - Arquivos recebidos: ['pdf_file']
+2025-07-22 16:27:05,258 - __main__ - INFO - Dados sanitizados: {'criado_por': 'Kaique Vinicius', 'nome': '', 'responsavel': 'kaiquevini14@gmail.com', 'observacoes': 'sasassas'}
+2025-07-22 16:27:05,258 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 16:27:05,260 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 16:27:05] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 16:27:12,412 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 16:27:12,443 - __main__ - INFO - Dados do formulário recebidos: {'criado_por': 'Kaique Vinicius', 'responsavel': 'kaiquevini14@gmail.com', 'observacoes': 'Kaique Vinicius'}
+2025-07-22 16:27:12,444 - __main__ - INFO - Arquivos recebidos: ['pdf_file']
+2025-07-22 16:27:12,444 - __main__ - INFO - Dados sanitizados: {'criado_por': 'Kaique Vinicius', 'nome': '', 'responsavel': 'kaiquevini14@gmail.com', 'observacoes': 'Kaique Vinicius'}
+2025-07-22 16:27:12,444 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 16:27:12,447 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 16:27:12] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 16:27:13,512 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 16:27:13,529 - __main__ - INFO - Dados do formulário recebidos: {'criado_por': 'Kaique Vinicius', 'responsavel': 'kaiquevini14@gmail.com', 'observacoes': 'Kaique Vinicius'}
+2025-07-22 16:27:13,529 - __main__ - INFO - Arquivos recebidos: ['pdf_file']
+2025-07-22 16:27:13,529 - __main__ - INFO - Dados sanitizados: {'criado_por': 'Kaique Vinicius', 'nome': '', 'responsavel': 'kaiquevini14@gmail.com', 'observacoes': 'Kaique Vinicius'}
+2025-07-22 16:27:13,530 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 16:27:13,531 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 16:27:13] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 16:28:37,631 - __main__ - INFO - Iniciando Sistema de Coleta de Dados
+2025-07-22 16:28:37,631 - __main__ - INFO - Pasta de uploads: uploads
+2025-07-22 16:28:37,631 - __main__ - INFO - Arquivo de dados: dados_coletados.json
+2025-07-22 16:28:37,631 - __main__ - INFO - Sistema disponível em: http://localhost:5000
+2025-07-22 16:28:37,647 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 16:28:37,647 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 16:28:41,824 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 16:28:41] "GET / HTTP/1.1" 200 -
+2025-07-22 16:29:05,457 - __main__ - INFO - Iniciando processamento de upload
+2025-07-22 16:29:05,474 - __main__ - INFO - Dados do formulário recebidos: {'criado_por': 'kaique vinicius ', 'responsavel': 'kaique vusususussus', 'observacoes': 'dsdsdsds'}
+2025-07-22 16:29:05,474 - __main__ - INFO - Arquivos recebidos: ['pdf_file']
+2025-07-22 16:29:05,475 - __main__ - INFO - Dados sanitizados: {'criado_por': 'kaique vinicius', 'nome': '', 'responsavel': 'kaique vusususussus', 'observacoes': 'dsdsdsds'}
+2025-07-22 16:29:05,475 - __main__ - WARNING - Validação falhou: ['Nome é obrigatório']
+2025-07-22 16:29:05,476 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 16:29:05] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-07-22 16:34:01,498 - __main__ - INFO - Iniciando Sistema de Coleta de Dados
+2025-07-22 16:34:01,498 - __main__ - INFO - Pasta de uploads: uploads
+2025-07-22 16:34:01,498 - __main__ - INFO - Arquivo de dados: dados_coletados.json
+2025-07-22 16:34:01,498 - __main__ - INFO - Sistema disponível em: http://localhost:5000
+2025-07-22 16:34:01,514 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 16:34:01,514 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 16:34:13,122 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2025 16:34:13] "GET /?id=4a4785a4-2eb4-4419-9ea8-138a32a78583&vscodeBrowserReqId=1753212852770 HTTP/1.1" 200 -
+2025-07-22 16:35:01,253 - __main__ - INFO - Iniciando Sistema de Coleta de Dados
+2025-07-22 16:35:01,253 - __main__ - INFO - Pasta de uploads: uploads
+2025-07-22 16:35:01,255 - __main__ - INFO - Arquivo de dados: dados_coletados.json
+2025-07-22 16:35:01,255 - __main__ - INFO - Sistema disponível em: http://localhost:5000
+2025-07-22 16:35:01,263 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.235:5000
+2025-07-22 16:35:01,263 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 16:35:04,488 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 16:35:04] "GET / HTTP/1.1" 200 -
+2025-07-22 16:35:10,192 - __main__ - INFO - Iniciando processamento de upload de PDF
+2025-07-22 16:35:10,208 - __main__ - INFO - Arquivos recebidos: ['pdf_file']
+2025-07-22 16:35:10,211 - __main__ - INFO - Arquivo PDF encontrado: SP - SAO PAULO - SETE PRAIAS - 20582 - 10803604 - 01_04_2025.pdf, tamanho: 4411446 bytes
+2025-07-22 16:35:10,232 - __main__ - INFO - Arquivo salvo: uploads\20250722_163510_SP_-_SAO_PAULO_-_SETE_PRAIAS_-_20582_-_10803604_-_01_04_2025.pdf
+2025-07-22 16:35:10,232 - __main__ - INFO - Tentando extração com PyMuPDF
+2025-07-22 16:35:10,405 - __main__ - INFO - PyMuPDF extraiu 15789 caracteres
+2025-07-22 16:35:10,405 - __main__ - INFO - Extração concluída com sucesso usando: PyMuPDF
+2025-07-22 16:35:10,406 - __main__ - INFO - Total de caracteres extraídos: 15829
+2025-07-22 16:35:10,406 - __main__ - INFO - Dados processados: 17162 caracteres
+2025-07-22 16:35:10,408 - __main__ - INFO - Backup diário criado: backup_20250722.json
+2025-07-22 16:35:10,409 - __main__ - INFO - Dados salvos com ID: fb81c24a-7606-4923-b9a0-d2526642b9b5
+2025-07-22 16:35:10,409 - __main__ - INFO - Processamento concluído com sucesso. ID: fb81c24a-7606-4923-b9a0-d2526642b9b5
+2025-07-22 16:35:10,410 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 16:35:10] "POST /upload HTTP/1.1" 200 -
+2025-07-22 17:06:04,838 - __main__ - INFO - Iniciando processamento de upload de PDF
+2025-07-22 17:06:04,845 - __main__ - INFO - Arquivos recebidos: ['pdf_file']
+2025-07-22 17:06:04,846 - __main__ - INFO - Arquivo PDF encontrado: laudo_3753874_v0.0.3.9.pdf, tamanho: 938448 bytes
+2025-07-22 17:06:04,865 - __main__ - INFO - Arquivo salvo: uploads\20250722_170604_laudo_3753874_v0.0.3.9.pdf
+2025-07-22 17:06:04,866 - __main__ - INFO - Tentando extração com PyMuPDF
+2025-07-22 17:06:04,904 - __main__ - INFO - PyMuPDF extraiu 12156 caracteres
+2025-07-22 17:06:04,904 - __main__ - INFO - Extração concluída com sucesso usando: PyMuPDF
+2025-07-22 17:06:04,905 - __main__ - INFO - Total de caracteres extraídos: 12196
+2025-07-22 17:06:04,905 - __main__ - INFO - Dados processados: 13352 caracteres
+2025-07-22 17:06:04,906 - __main__ - INFO - Dados salvos com ID: 06811694-f2a6-4ca8-9cb8-78e6e1e2f0ac
+2025-07-22 17:06:04,907 - __main__ - INFO - Processamento concluído com sucesso. ID: 06811694-f2a6-4ca8-9cb8-78e6e1e2f0ac
+2025-07-22 17:06:04,907 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 17:06:04] "POST /upload HTTP/1.1" 200 -
+2025-07-22 17:12:52,134 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting property name enclosed in double quotes: line 2 column 1 (char 2)
+2025-07-22 17:12:52,135 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 14 (char 13)
+2025-07-22 17:12:52,135 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 7 (char 6)
+2025-07-22 17:12:52,135 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 9 (char 8)
+2025-07-22 17:12:52,135 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 18 (char 17)
+2025-07-22 17:12:52,135 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 14 (char 13)
+2025-07-22 17:12:52,136 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 22 (char 21)
+2025-07-22 17:12:52,136 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 19 (char 18)
+2025-07-22 17:12:52,136 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 16 (char 15)
+2025-07-22 17:12:52,137 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 16 (char 15)
+2025-07-22 17:12:52,137 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting value: line 1 column 5 (char 4)
+2025-07-22 17:12:52,137 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 13 (char 12)
+2025-07-22 17:12:52,137 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 17 (char 16)
+2025-07-22 17:12:52,138 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 17 (char 16)
+2025-07-22 17:12:52,138 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting value: line 1 column 3 (char 2)
+2025-07-22 17:12:52,138 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 15 (char 14)
+2025-07-22 17:12:52,139 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 12 (char 11)
+2025-07-22 17:12:52,139 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting value: line 1 column 1 (char 0)
+2025-07-22 17:12:52,139 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting property name enclosed in double quotes: line 2 column 1 (char 2)
+2025-07-22 17:12:52,139 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 14 (char 13)
+2025-07-22 17:12:52,140 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 7 (char 6)
+2025-07-22 17:12:52,140 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 9 (char 8)
+2025-07-22 17:12:52,140 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 18 (char 17)
+2025-07-22 17:12:52,140 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 14 (char 13)
+2025-07-22 17:12:52,141 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 22 (char 21)
+2025-07-22 17:12:52,141 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 19 (char 18)
+2025-07-22 17:12:52,141 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 16 (char 15)
+2025-07-22 17:12:52,141 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 16 (char 15)
+2025-07-22 17:12:52,142 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting value: line 1 column 5 (char 4)
+2025-07-22 17:12:52,142 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 13 (char 12)
+2025-07-22 17:12:52,142 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 17 (char 16)
+2025-07-22 17:12:52,142 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 17 (char 16)
+2025-07-22 17:12:52,142 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting value: line 1 column 3 (char 2)
+2025-07-22 17:12:52,143 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 15 (char 14)
+2025-07-22 17:12:52,143 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 12 (char 11)
+2025-07-22 17:12:52,143 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting value: line 1 column 1 (char 0)
+2025-07-22 17:12:52,144 - __main__ - INFO - Carregados 0 registros para visualização
+2025-07-22 17:12:52,175 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 17:12:52] "GET /visualizar HTTP/1.1" 200 -
+2025-07-22 17:12:54,848 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 17:12:54] "GET / HTTP/1.1" 200 -
+2025-07-22 17:13:12,659 - __main__ - INFO - Iniciando processamento de upload de PDF
+2025-07-22 17:13:12,664 - __main__ - INFO - Arquivos recebidos: ['pdf_file']
+2025-07-22 17:13:12,665 - __main__ - INFO - Arquivo PDF encontrado: laudo_3758594_v0.0.0.1.pdf, tamanho: 864834 bytes
+2025-07-22 17:13:12,672 - __main__ - INFO - Arquivo salvo: uploads\20250722_171312_laudo_3758594_v0.0.0.1.pdf
+2025-07-22 17:13:12,673 - __main__ - INFO - Tentando extração com PyMuPDF
+2025-07-22 17:13:12,699 - __main__ - INFO - PyMuPDF extraiu 10202 caracteres
+2025-07-22 17:13:12,699 - __main__ - INFO - Extração concluída com sucesso usando: PyMuPDF
+2025-07-22 17:13:12,699 - __main__ - INFO - Total de caracteres extraídos: 10242
+2025-07-22 17:13:12,700 - __main__ - INFO - Dados processados: 11424 caracteres
+2025-07-22 17:13:12,701 - __main__ - INFO - Dados salvos com ID: af2654ba-26ca-4865-b916-de093f39e03c
+2025-07-22 17:13:12,701 - __main__ - INFO - Processamento concluído com sucesso. ID: af2654ba-26ca-4865-b916-de093f39e03c
+2025-07-22 17:13:12,702 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 17:13:12] "POST /upload HTTP/1.1" 200 -
+2025-07-22 17:13:13,845 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting property name enclosed in double quotes: line 2 column 1 (char 2)
+2025-07-22 17:13:13,845 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 14 (char 13)
+2025-07-22 17:13:13,846 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 7 (char 6)
+2025-07-22 17:13:13,846 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 9 (char 8)
+2025-07-22 17:13:13,846 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 18 (char 17)
+2025-07-22 17:13:13,846 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 14 (char 13)
+2025-07-22 17:13:13,847 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 22 (char 21)
+2025-07-22 17:13:13,847 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 19 (char 18)
+2025-07-22 17:13:13,847 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 16 (char 15)
+2025-07-22 17:13:13,847 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 16 (char 15)
+2025-07-22 17:13:13,848 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting value: line 1 column 5 (char 4)
+2025-07-22 17:13:13,848 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 13 (char 12)
+2025-07-22 17:13:13,848 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 17 (char 16)
+2025-07-22 17:13:13,848 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 17 (char 16)
+2025-07-22 17:13:13,849 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting value: line 1 column 3 (char 2)
+2025-07-22 17:13:13,849 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 15 (char 14)
+2025-07-22 17:13:13,849 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 12 (char 11)
+2025-07-22 17:13:13,849 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting value: line 1 column 1 (char 0)
+2025-07-22 17:13:13,850 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting property name enclosed in double quotes: line 2 column 1 (char 2)
+2025-07-22 17:13:13,851 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 14 (char 13)
+2025-07-22 17:13:13,851 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 7 (char 6)
+2025-07-22 17:13:13,851 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 9 (char 8)
+2025-07-22 17:13:13,851 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 18 (char 17)
+2025-07-22 17:13:13,852 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 14 (char 13)
+2025-07-22 17:13:13,852 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 22 (char 21)
+2025-07-22 17:13:13,852 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 19 (char 18)
+2025-07-22 17:13:13,852 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 16 (char 15)
+2025-07-22 17:13:13,853 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 16 (char 15)
+2025-07-22 17:13:13,853 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting value: line 1 column 5 (char 4)
+2025-07-22 17:13:13,853 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 13 (char 12)
+2025-07-22 17:13:13,853 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 17 (char 16)
+2025-07-22 17:13:13,853 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 17 (char 16)
+2025-07-22 17:13:13,853 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting value: line 1 column 3 (char 2)
+2025-07-22 17:13:13,853 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 15 (char 14)
+2025-07-22 17:13:13,854 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 12 (char 11)
+2025-07-22 17:13:13,854 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting value: line 1 column 1 (char 0)
+2025-07-22 17:13:13,854 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting property name enclosed in double quotes: line 2 column 1 (char 2)
+2025-07-22 17:13:13,854 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 14 (char 13)
+2025-07-22 17:13:13,855 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 7 (char 6)
+2025-07-22 17:13:13,855 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 9 (char 8)
+2025-07-22 17:13:13,855 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 18 (char 17)
+2025-07-22 17:13:13,855 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 14 (char 13)
+2025-07-22 17:13:13,855 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 22 (char 21)
+2025-07-22 17:13:13,856 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 19 (char 18)
+2025-07-22 17:13:13,856 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 16 (char 15)
+2025-07-22 17:13:13,856 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 16 (char 15)
+2025-07-22 17:13:13,856 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting value: line 1 column 5 (char 4)
+2025-07-22 17:13:13,856 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 13 (char 12)
+2025-07-22 17:13:13,856 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 17 (char 16)
+2025-07-22 17:13:13,857 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 17 (char 16)
+2025-07-22 17:13:13,857 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting value: line 1 column 3 (char 2)
+2025-07-22 17:13:13,857 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 15 (char 14)
+2025-07-22 17:13:13,857 - __main__ - WARNING - Linha JSON inválida ignorada: Extra data: line 1 column 12 (char 11)
+2025-07-22 17:13:13,857 - __main__ - WARNING - Linha JSON inválida ignorada: Expecting value: line 1 column 1 (char 0)
+2025-07-22 17:13:13,857 - __main__ - INFO - Carregados 0 registros para visualização
+2025-07-22 17:13:13,858 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 17:13:13] "GET /visualizar HTTP/1.1" 200 -
+2025-07-22 17:13:14,964 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 17:13:14] "GET / HTTP/1.1" 200 -
+2025-07-22 17:16:54,321 - __main__ - INFO - Iniciando processamento de upload de PDF
+2025-07-22 17:16:54,339 - __main__ - INFO - Arquivos recebidos: ['pdf_file']
+2025-07-22 17:16:54,342 - __main__ - INFO - Arquivo PDF encontrado: SP - SAO PAULO - SETE PRAIAS - 20582 - 10803604 - 01_04_2025.pdf, tamanho: 4411446 bytes
+2025-07-22 17:16:54,359 - __main__ - INFO - Arquivo salvo: uploads\20250722_171654_SP_-_SAO_PAULO_-_SETE_PRAIAS_-_20582_-_10803604_-_01_04_2025.pdf
+2025-07-22 17:16:54,359 - __main__ - INFO - Tentando extração com PyMuPDF
+2025-07-22 17:16:54,428 - __main__ - INFO - PyMuPDF extraiu 15789 caracteres
+2025-07-22 17:16:54,428 - __main__ - INFO - Extração concluída com sucesso usando: PyMuPDF
+2025-07-22 17:16:54,429 - __main__ - INFO - Total de caracteres extraídos: 15829
+2025-07-22 17:16:54,429 - __main__ - INFO - Dados processados: 17162 caracteres
+2025-07-22 17:16:54,430 - __main__ - INFO - Dados salvos com ID: 619bb342-4560-430b-83b0-cf7e95319100
+2025-07-22 17:16:54,430 - __main__ - INFO - Processamento concluído com sucesso. ID: 619bb342-4560-430b-83b0-cf7e95319100
+2025-07-22 17:16:54,432 - werkzeug - INFO - 172.16.0.235 - - [22/Jul/2025 17:16:54] "POST /upload HTTP/1.1" 200 -
